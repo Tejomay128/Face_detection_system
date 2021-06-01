@@ -1,5 +1,5 @@
 # Face_detection_system
-This repository consists of a training model to detect and recognize faces from various different angles. The model was created using tensorflow 2.2.0 . 
+This repository consists of a training model to detect and recognize faces from various different angles nad illuminations. The model was created using tensorflow 2.2.0 . 
 
 1)The model is a siamese network (one-shot learning).
 
